@@ -1,0 +1,6 @@
+*.sdf
+x64/
+*.so
+*.o
+*.suo
+*.vcxproj.filters

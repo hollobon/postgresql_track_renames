@@ -1,0 +1,5 @@
+# rename tracking extension
+comment = 'Database object rename tracking extension'
+default_version = '0.1'
+module_pathname = '$libdir/track_renames.so'  # substitute .DLL for .so on Windows
+relocatable = true

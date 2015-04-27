@@ -22,3 +22,4 @@ ALTER TABLE test RENAME TO something_else;
 SELECT * FROM rename_log;
 ```
 
+Based on Michael Paquier's blackhole extension template: https://github.com/michaelpq/pg_plugins/tree/master/blackhole.
